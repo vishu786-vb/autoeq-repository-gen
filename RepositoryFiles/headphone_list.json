@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "sonymdr7509hd",
+    "type": 2,
+    "brandName": [
+      "Sony"
+    ],
+    "modelName": [
+      "MDR-7509HD"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  }
+]
