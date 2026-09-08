@@ -1,5 +1,17 @@
 [
   {
+    "id": "kzedxpro",
+    "type": 0,
+    "brandName": [
+      "KZ"
+    ],
+    "modelName": [
+      "EDX Pro"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  },
+  {
     "id": "sonymdr7509hd",
     "type": 2,
     "brandName": [

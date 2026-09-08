@@ -4,5 +4,11 @@
     "version": 1,
     "type": 2,
     "original_name": "Sony MDR-7509HD"
+  },
+  "kzedxpro": {
+    "hash": "aa10c31903b3e8fb99dcf0149bd0bb09",
+    "version": 1,
+    "type": 0,
+    "original_name": "KZ EDX Pro"
   }
 }
